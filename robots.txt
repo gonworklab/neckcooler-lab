@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://neckcooler-lab.gon-work-lab.workers.dev/sitemap.xml
